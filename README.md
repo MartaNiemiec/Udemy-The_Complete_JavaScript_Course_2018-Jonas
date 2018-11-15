@@ -16,3 +16,13 @@
 :heavy_check_mark: What's new in ES6: arrow functions, classes, default and rest parameters, etc.
 
 :heavy_check_mark: Organizing and structuring code using JavaScript patterns like modules
+
+
+
+
+
+
+## Projects made
+Pig Game [:arrow_forward:](https://martaniemiec.github.io/Udemy-The_Complete_JavaScript_Course_2018-Jonas/4-DOM-pig-game/index.html)
+
+Budgety [:arrow_forward:](https://martaniemiec.github.io/Udemy-The_Complete_JavaScript_Course_2018-Jonas/6_budgety/index.html)
