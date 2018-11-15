@@ -7,9 +7,9 @@
 
 :heavy_check_mark: Complex features like the 'this' keyword, function constructors, prototypal inheritance, first-class functions, closures
 
-:heavy_minus_sign: Asynchronous JavaScript: The event loop, promises, async/await, AJAX and APIs
+:heavy_check_mark: Asynchronous JavaScript: The event loop, promises, async/await, AJAX and APIs
 
-:heavy_minus_sign: NPM, Webpack, Babel and ES6 modules
+:heavy_check_mark: NPM, Webpack, Babel and ES6 modules
 
 :heavy_check_mark: A true understanding of how JavaScript works behind the scenes
 
